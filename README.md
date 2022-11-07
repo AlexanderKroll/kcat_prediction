@@ -8,7 +8,7 @@ This repository contains the code and datasets to reproduce the results and figu
 
 
 ## Downloading data folder
-Before you can run the jupyter notebooks, you need to download and unzip a [data folder](https://drive.google.com/file/d/1rH9mQ4dL1SPeD_ttAVxrKrUl-7z4FMEK/view?usp=sharing). Afterwards, this repository should have the following strcuture:
+Before you can run the jupyter notebooks, you need to download and unzip a [data folder](https://drive.google.com/file/d/14gRex3RnLjc5plbDCrKnJk1l_dfpKtw4/view?usp=share_link). Afterwards, this repository should have the following strcuture:
 
     ├── code                   
     ├── data                    
