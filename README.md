@@ -30,6 +30,8 @@ Before you can run the jupyter notebooks, you need to download and unzip a [data
 - pickle
 - Bio 1.78
 - re 2.2.1
+- drfp 0.3.6
+- zeep 4.2.1
 
 The listed packaged can be installed using conda and pip:
 
@@ -43,6 +45,8 @@ pip install matplotlib
 pip install hyperopt
 pip install pickle
 pip install biopython
+pip instal drfp
+pip install zeep
 conda install pandas=1.3.0
 conda install -c conda-forge py-xgboost=1.2.0
 conda install -c rdkit rdkit
