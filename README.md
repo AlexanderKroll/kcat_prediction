@@ -8,7 +8,7 @@ This repository contains the code and datasets to reproduce the results and figu
 
 
 ## Downloading data folder
-Before you can run the jupyter notebooks, you need to download and unzip a [data folder from Zenodo](https://doi.org/10.5281/zenodo.7849347). Afterwards, this repository should have the following strcuture:
+Before you can run the jupyter notebooks, you need to download and unzip a [data folder from Zenodo](https://doi.org/10.5281/zenodo.8367052). Afterwards, this repository should have the following strcuture:
 
     ├── code                   
     ├── data                    
